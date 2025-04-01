@@ -1,7 +1,7 @@
-# Spring Boot Employee Management System
+# Spring Boot HumanEdge Manager
 
 ## Overview
-The **Employee Management System** is built using Spring Boot to manage employees, departments, branches, and user roles. This system allows administrators and users to perform various employee-related operations and manage the organization efficiently.
+The **HumanEdge Manager** is built using Spring Boot to manage employees, departments, branches, and user roles. This system allows administrators and users to perform various employee-related operations and manage the organization efficiently.
 
 ## Key Features
 - **Employee Management:**
@@ -28,10 +28,10 @@ The **Employee Management System** is built using Spring Boot to manage employee
 
 ## Download Link
 To explore the project code, download it from the following link:
-[Spring Boot Employee Management System](https://github.com/Ashaxn/Spring-Boot-Employee-Management-System)
+[Spring Boot HumanEdge Manager](https://github.com/Ashaxn/Spring-Boot-Employee-Management-System)
 
 ## Live Server Access
-You can access the live version of the Employee Management System with the following credentials:
+You can access the live version of the HumanEdge Manager with the following credentials:
 
 - **URL:** [Live Server URL]
 - **End User Login:**
@@ -70,9 +70,9 @@ Deepak Agrawal
 
 
 
-# Employee Management System
+# HumanEdge Manager
 
-YouTube - https://www.youtube.com/watch?v=5bXyXkUlNuc
+YouTube - https://www.youtube.com/
 
 
 
